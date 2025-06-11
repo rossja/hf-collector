@@ -28,7 +28,7 @@ HF Collector provides two methods for downloading datasets from Hugging Face col
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/rossja/hf-collector.git
 cd hf-collector
 
 # Install dependencies with uv
@@ -39,7 +39,7 @@ uv install
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/rossja/hf-collector.git
 cd hf-collector
 
 # Install dependencies
